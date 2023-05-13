@@ -1,3 +1,4 @@
+//Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 Console.WriteLine("Введите x1: ");
 double x1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите y1: ");
